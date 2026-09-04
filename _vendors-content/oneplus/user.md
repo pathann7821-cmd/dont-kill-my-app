@@ -1,6 +1,7 @@
 ---
 manufacturer: 
-    - oneplus
+  oneplus note 
+  - oneplus
 
 ---
 
